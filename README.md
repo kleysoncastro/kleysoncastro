@@ -24,8 +24,10 @@
   </div>
   
 ##
-- 🔭 Esou desenvolvendo Back-End com nodejs e typescript
-- 🌱 Soft Skills em Reactjs e React native
-- 👯 Estudando Go e Rust
+- 🔭 Desenvolvedor de aplicações em sistemas embarcados 32bits
+- 🌱 Programação c/c++ esp32, arm 32bits, AVR
+- :building_construction: API rest nojejs 
+- :bricks: Desegner de PCD e Esquemas eletricos com Eagle e Kicad
+- 👯 Estudando Rust
 
 
