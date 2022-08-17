@@ -27,7 +27,7 @@
 - 🔭 Desenvolvedor de aplicações em sistemas embarcados 32bits
 - 🌱 Programação c/c++ esp32, arm 32bits, AVR
 - :building_construction: API rest nojejs 
-- :bricks: Desegner de PCD e Esquemas eletricos com Eagle e Kicad
+- :bricks: Designer de PCD e Esquemas eletricos com Eagle e Kicad
 - 👯 Estudando Rust
 
 
