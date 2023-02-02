@@ -24,9 +24,9 @@
   </div>
   
 ##
-- 🔭 Desenvolvedor de aplicações em sistemas embarcados 32bits
-- 🌱 Programação c/c++ esp32, arm 32bits, AVR
-- :building_construction: API rest nojejs 
+- 🔭 Desenvolvedor de aplicações em sistemas embarcados 32bits, linux, TDD com CppUTest
+- 🌱 Programação c/c++ esp32, arm 32bits, AVR, ROCKCHIP
+- :building_construction: API rest nodejs 
 - :bricks: Designer de PCD e Esquemas eletricos com Eagle e Kicad
 - 👯 Estudando Rust
 
