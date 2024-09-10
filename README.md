@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programador C/C++ | P&D sistemas Embarcados | linguagens: javascript, rust, c/c++ Eletrônica IOT
+Programador C/C++, GO, JavaScript | P&D sistemas Embarcados | Eletrônica IOT | Projetista de Hardware
 
 
 ## 🌐 Socials:
